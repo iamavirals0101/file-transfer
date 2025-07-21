@@ -52,9 +52,6 @@ A modern, full-stack file transfer app built with React, Node.js/Express, and So
    ```
 3. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-   <img width="532" height="635" alt="image" src="https://github.com/user-attachments/assets/3c07704c-eb06-4e9f-af6c-2ff281c6fc1d" />
-
-   <img width="541" height="653" alt="image" src="https://github.com/user-attachments/assets/55c2c820-7677-40ea-82f6-9994afeafe30" />
 
 
 
